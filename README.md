@@ -1,1 +1,9 @@
+# Robson, a nauthgy cat ...
+Robson is a cat who loves to roam and spend days exploring outside. This project aims to monitor all of his activities using sensors installed near the window to track his inputs and outputs.
 
+# Hardware
+- ESP32
+- ...
+- 
+# Architecture project
+Loading ...
